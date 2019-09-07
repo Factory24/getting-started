@@ -10,7 +10,7 @@ Welcome to the Factory24 Github organization page, this repo is used as an index
 
 1. To provide overview of the Factory24 project
 2. To provide a "sitemap" for the organization repos and activities
-3. To provide guidelines to contributing to all open source Factory24 Projects
+3. To hightlight the Factory24 OSS contributing guidelines
 
 ### Afrolynk's Factory24 Overview
 
@@ -28,7 +28,7 @@ Kenya, Zimbabwe, Nigeria, Uganda etc.
 
 ### Sitemap
 
-This organization page will host a variety of repositories including project specifications & software releases.  
+This organization page will host a variety of repositories including project specifications & software releases. 
 Nothing in this sitemap is `permanent` yet. The most important `repos` for now cover three separate guidelines: 
 
 * [Project Submission Guide](https://github.com/Factory24/project-submission) - complete guideline of how to submit
@@ -38,8 +38,8 @@ Nothing in this sitemap is `permanent` yet. The most important `repos` for now c
 * [Course Directory](https://github.com/Factory24/course-directory) - complete outline of all courses provided on 
     Factory24 platform, breakdown of course objectives and guide to raising issues. 
 
-These guidelines will remain as `drafts`, most of the improvement work will happen in the issues or in active pull 
-requests so if you have ideas to make getting started with Open Source contributing at Factory24 very friendly, go 
+These guidelines will remain as `drafts.` Most of the improvement work will happen in the `issues` or in `active pull 
+requests` so if you have ideas to make getting started with Open Source contributing at Factory24 very friendly, go 
 take a look!
 
 ### Contributing Guidelines
@@ -49,7 +49,8 @@ Out of the multiple projects we're building, about 60% are built on public repos
 ensures that developers who have completed any of our courses can almost immediately start contributing by reviewing 
 code, creating pull requests and making commits.  Essentially turning contributors to maintainers and a community.
 
-The technical model we will be replicating on all our projects are covered in our **[Contributing Guide](https://github.com/Factory24/contributing-guide)** which is outlines our contributing guidelines, code of conduct and our community profile.
+The technical model we will be replicating on all our projects is covered in our **[Contributing Guide](https://github.com/Factory24/contributing-guide)** which outlines our contributing guidelines, code of conduct, best practises for maintainers, our 
+community profile and so much more. 
 
 ## License
 
