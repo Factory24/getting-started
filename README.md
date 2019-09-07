@@ -26,7 +26,7 @@ meet potential employers.
 we're currently developing to build next Gen Tech Entrepreneurs in 8 African countries including Tunisia, Ghana,
 Kenya, Zimbabwe, Nigeria, Uganda etc.
 
-## Sitemap
+### Sitemap
 
 This organization page will host a variety of repositories including project specifications & software releases.  
 Nothing in this sitemap is `permanent` yet. The most important `repos` for now cover three separate guidelines: 
@@ -35,12 +35,21 @@ Nothing in this sitemap is `permanent` yet. The most important `repos` for now c
     project ideas including templates and step-by-step instructions. 
 * [Improvement Proposal Guide](https://github.com/Factory24/improvement-proposals) - repository for the Factory24 
     improvement proposals and standard processes.
-* [Contributing Guide](https://github.com/Factory24/contributing-guide) - this repository outlines our contributing
-    guidelines, code of conduct and our community profile. 
+* [Course Directory](https://github.com/Factory24/course-directory) - complete outline of all courses provided on 
+    Factory24 platform, breakdown of course objectives and guide to raising issues. 
 
 These guidelines will remain as `drafts`, most of the improvement work will happen in the issues or in active pull 
 requests so if you have ideas to make getting started with Open Source contributing at Factory24 very friendly, go 
 take a look!
+
+### Contributing Guidelines
+
+Out of the multiple projects we're building, about 60% are built on public repositories on Github, released under 
+`OSI-approved` licenses like the `MIT License`, the `GNU General Public License` and `Apache License 2.0`.  This 
+ensures that developers who have completed any of our courses can almost immediately start contributing by reviewing 
+code, creating pull requests and making commits.  Essentially turning contributors to maintainers and a community.
+
+The technical model we will be replicating on all our projects are covered in our **[Contributing Guide](https://github.com/Factory24/contributing-guide)** which is outlines our contributing guidelines, code of conduct and our community profile.
 
 ## License
 
