@@ -1,4 +1,4 @@
-![Afrolynk Factory24](Afrolynk-Logo-Color.png "Afrolynk Factory24")
+![Afrolynk Factory24](assets/images/Afrolynk-Logo-Color.png "Afrolynk Factory24")
 
 [![](https://img.shields.io/badge/made%20by-Afrolynk-maroon.svg?style=flat-square)](https://afrolynk.com/)
 [![](https://img.shields.io/badge/project-Factory24-maroon.svg?style=flat-square)](http://factory24.org/)
