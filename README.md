@@ -33,10 +33,10 @@ Nothing in this sitemap is `permanent` yet. The most important `repos` for now c
 
 * [Project Submission Guide](https://github.com/factory24/project-submission) - complete guideline of how to submit
     project ideas including templates and step-by-step instructions. 
-* [Improvement Proposal Guide](https://github.com/factory24/improvement-proposals) - repository for the Factory24 
-    improvement proposals and standard processes.
 * [Course Directory](https://github.com/factory24/course-directory) - complete outline of all courses provided on 
     Factory24 platform, breakdown of course objectives and guide to raising issues. 
+* [Groups Directory](https://github.com/factory24/groups-directory) - complete outline of Factory24 functional 
+    groups, listing group descriptions, objectives & faciliatators.
 
 These guidelines will remain as `drafts.` Most of the improvement work will happen in the `issues` or in `active pull 
 requests` so if you have ideas to make getting started with Open Source contributing at Factory24 very friendly, go 
