@@ -37,7 +37,7 @@ Nothing in this sitemap is `permanent` yet. The most important `repos` for now c
     Factory24 platform, breakdown of course objectives and guide to raising issues. 
 * [Groups Directory](https://github.com/factory24/groups-directory) - complete outline of Factory24 functional 
     groups, listing group descriptions, objectives & faciliatators.
-* [](https://github.com/factory24/groups-directory) - 
+* [Contributing Guide](https://github.com/factory24/groups-directory) - 
 
 These guidelines will remain as `drafts.` Most of the improvement work will happen in the `issues` or in `active pull 
 requests` so if you have ideas to make getting started with Open Source contributing at Factory24 very friendly, go 
