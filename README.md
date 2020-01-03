@@ -35,8 +35,6 @@ Nothing in this sitemap is `permanent` yet. The most important `repos` for now c
     project ideas including templates and step-by-step instructions. 
 * [Course Directory](https://github.com/factory24/course-directory) - complete outline of all courses provided on 
     Factory24 platform, breakdown of course objectives and guide to raising issues. 
-* [Groups Directory](https://github.com/factory24/groups-directory) - complete outline of Factory24 functional 
-    groups, listing group descriptions, objectives & faciliatators.
 * [Contributing Guide](https://github.com/factory24/contributing-guide) - outlines of the contributing guidelines, 
     code of conduct, best practices for maintainers and so much more.
 
