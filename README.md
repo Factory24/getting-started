@@ -37,7 +37,7 @@ Nothing in this sitemap is `permanent` yet. The most important `repos` for now c
     Factory24 platform, breakdown of course objectives and guide to raising issues. 
 * [Contributing Guide](https://github.com/factory24/contributing-guide) - outlines of the contributing guidelines, 
     code of conduct, best practices for maintainers and so much more.
-* [Contributing Guide](https://github.com/factory24/contributing-guide) - outlines of the contributing guidelines, 
+* [ Guide](https://github.com/factory24/contributing-guide) - outlines of the contributing guidelines, 
     code of conduct, best practices for maintainers and so much more.
 
 These guidelines will remain as `drafts.` Most of the improvement work will happen in the `issues` or in `active pull 
