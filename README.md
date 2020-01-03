@@ -38,7 +38,7 @@ Nothing in this sitemap is `permanent` yet. The most important `repos` for now c
 * [Contributing Guide](https://github.com/factory24/contributing-guide) - outlines of the contributing guidelines, 
     code of conduct, best practices for maintainers and so much more.
 * [Developer Onboarding Guide](https://github.com/factory24/contributing-guide) - detailed guide for the Factory24   
-    developer onboarding process. outlines of the  for the Factory24 developer onboarding process
+    developer onboarding process. 
 
 These guidelines will remain as `drafts.` Most of the improvement work will happen in the `issues` or in `active pull 
 requests` so if you have ideas to make getting started with Open Source contributing at Factory24 very friendly, go 
